@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2,
+    "nome": "Giovani",
+    "sobrenome": "Silva",
+    "telefone": "9917-1194",
+    "data": "2001-10",
+    "ra": 1
+  },
+  {
+    "id": 3,
+    "nome": "Rafael",
+    "sobrenome": "Silva",
+    "telefone": "99350414",
+    "data": "2010-09",
+    "ra": 2
+  },
+  {
+    "id": 4,
+    "nome": "teste",
+    "sobrenome": "teste",
+    "telefone": "teste",
+    "data": "2010-09",
+    "ra": 213
+  },
+  {
+    "id": 5,
+    "nome": "Dayana ",
+    "sobrenome": "Raymundo",
+    "telefone": "91119955",
+    "data": "2020-05",
+    "ra": 4
+  },
+  {
+    "id": 6,
+    "nome": "Fulano",
+    "sobrenome": "fuli",
+    "telefone": "123456",
+    "data": null,
+    "ra": 55
+  }
+]

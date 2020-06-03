@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp.csproj", "{47D15F72-F694-40B2-A8F7-706B33588549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Domain", "App.Domain\App.Domain.csproj", "{92CBA207-DF94-4ED9-ABD7-BBB59DEADB01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Repository", "App.Repository\App.Repository.csproj", "{AFB84708-7E18-4175-9295-7FA4810C1E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47D15F72-F694-40B2-A8F7-706B33588549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D15F72-F694-40B2-A8F7-706B33588549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D15F72-F694-40B2-A8F7-706B33588549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D15F72-F694-40B2-A8F7-706B33588549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CBA207-DF94-4ED9-ABD7-BBB59DEADB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CBA207-DF94-4ED9-ABD7-BBB59DEADB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CBA207-DF94-4ED9-ABD7-BBB59DEADB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CBA207-DF94-4ED9-ABD7-BBB59DEADB01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB84708-7E18-4175-9295-7FA4810C1E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB84708-7E18-4175-9295-7FA4810C1E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB84708-7E18-4175-9295-7FA4810C1E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB84708-7E18-4175-9295-7FA4810C1E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D03DAF82-BA70-41CB-BE47-4BA6CBBA1ABB}
+	EndGlobalSection
+EndGlobal
