@@ -7,4 +7,4 @@ Os dados são gravados em um Database dentro da aplicação. <br>
 
 Possui um HTML que consumo essa API e possibilita o cadastro e consumo dos dados.
 
-![CadastroAluno]()
+![CadastroAluno](https://github.com/GiovaniDaSilva/WebApp_CadastroAluno/blob/master/Academico.gif)
